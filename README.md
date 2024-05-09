@@ -68,10 +68,8 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/minhtan143">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhtan143&show_icons=true&include_all_commits=true&count_private=true" alt="github-stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhtan143&layout=compact&langs_count=8" alt="top-langs" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhtan143&show_icons=true&include_all_commits=true&count_private=true" alt="github-stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhtan143&layout=compact&langs_count=8" alt="top-langs" />
   <br/>
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
@@ -87,9 +85,9 @@
 
 ### 🤝 Contact me
 <p align="center">
-  <a href="https://minhtanit.com"><img src="https://img.shields.io/badge/minhtanit.com-blue?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://facebook.com/minhtan143"><img src="https://img.shields.io/badge/Minh%20T%C3%A2n-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="mailto:minhtantanhiep@gmail.com"><img src="https://img.shields.io/badge/minhtantanhiep-EA4336?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/minhtan143"><img src="https://img.shields.io/badge/Tan%20Pham-0B66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="skype:live:minhtantanhiep?chat"><img src="https://img.shields.io/badge/minhtan143-0796D4?style=flat&logo=Skype&logoColor=white"/></a>
+  <a target="_blank" href="https://minhtanit.com"><img src="https://img.shields.io/badge/minhtanit.com-blue?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a target="_blank" href="https://facebook.com/minhtan143"><img src="https://img.shields.io/badge/Minh%20T%C3%A2n-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a target="_blank" href="mailto:minhtantanhiep@gmail.com"><img src="https://img.shields.io/badge/minhtantanhiep-EA4336?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://linkedin.com/in/minhtan143"><img src="https://img.shields.io/badge/Tan%20Pham-0B66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href="skype:live:minhtantanhiep?chat"><img src="https://img.shields.io/badge/minhtan143-0796D4?style=flat&logo=Skype&logoColor=white"/></a>
 </p>
